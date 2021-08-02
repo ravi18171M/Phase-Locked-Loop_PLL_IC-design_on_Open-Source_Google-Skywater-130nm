@@ -97,11 +97,11 @@ Day1_4. Introduction to VCO and Frequency Divider_Lec 4
 
 1. VCO 
 
-1. Ring oscillator is onchip oscillator but with fix freq .
+   Ring oscillator is onchip oscillator but with fix freq .
 
 ![image](https://user-images.githubusercontent.com/88277263/127835455-c55caa90-0619-4744-8d20-51ff2b58815c.png)
 
-2. To make flexible freq in ring oscillator we will vary SUPPLY current as per need of the time to rise and fall of signal.
+   To make flexible freq in ring oscillator we will vary SUPPLY current as per need of the time to rise and fall of signal.
 
 ![image](https://user-images.githubusercontent.com/88277263/127835525-40e8daf6-cee9-4748-b0fd-d11f588ce730.png)
 
