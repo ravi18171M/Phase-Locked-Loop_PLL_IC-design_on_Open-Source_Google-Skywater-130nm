@@ -284,8 +284,18 @@ Extra inv at output for full swing
 
 
 
+4 Freq Division:
+
+![image](https://user-images.githubusercontent.com/88277263/127843515-1131cd98-7423-4b08-80d8-22f62e972b97.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127843537-885715bc-3dce-46cb-874b-2a7ce71f3b24.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127843550-509f351b-ab11-4924-a2b3-2074c0d11cda.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127843561-9f744288-987c-40cf-bd3f-aaf9522e05fd.png)
 
 
+===============================================================================
 
 
 
