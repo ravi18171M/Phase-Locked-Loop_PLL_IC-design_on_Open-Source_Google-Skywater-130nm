@@ -74,6 +74,29 @@ This leads to phase noise in system.
 
 ===============================================================================
 
+Day1_3. Introduction to Charge Pump_Lec 3
+
+1. Convert digital signal (measure of phase difference at input of PFD) to Analog signal (to control VCO freq).
+2. We use current steering circuit i.e. depending upon input state current will be given or drown from output cap.
+3. difference in Avg time of up signal and Avg time of down signal decide the charging or discharging of output cap.
+If up avg time is larger then cap will be charging and vicevera.
+
+![image](https://user-images.githubusercontent.com/88277263/127834655-fe38d48d-1029-4f8e-96e6-efeb56c9e688.png)
+
+4. Loop filter:
+
+![image](https://user-images.githubusercontent.com/88277263/127834767-b0bff1db-277c-40e2-8580-151fdd526ef6.png)
+
+Cload = C1/10
+
+Loop filter BW = 1/RC’ = fout/10     C’ = C1||Cload
+
+===============================================================================
+
+
+
+
+
 
 
 
