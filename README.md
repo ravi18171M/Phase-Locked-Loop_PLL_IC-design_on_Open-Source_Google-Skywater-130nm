@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/88277263/127781279-485d7b13-fd40-4d03-9192-d7a31bf04769.png)
 31 July and 1 August 2021
 
-Reference & credit: https://github.com/lakshmi-sathi/avsdpll_1v8.git
+Reference: https://github.com/lakshmi-sathi/avsdpll_1v8.git
 
 Add hyperlink
 
@@ -337,6 +337,53 @@ Day2_5. Layout design_Lec 13
 4. Parasitic extrc are available on pins only.
 
 ===============================================================================
+
+Day2_6. Layout Walkthrough_Lec 14
+
+1. PFD: 
+
+![image](https://user-images.githubusercontent.com/88277263/127845503-a7b0a05e-a562-4e80-b91c-a18f3d93759a.png)
+
+Extra inverter at top and bottom in layout added wrt cicuit seen before.
+
+![image](https://user-images.githubusercontent.com/88277263/127845525-f9edead4-013b-43ce-ab3e-f881847084b6.png)
+
+2. Charge Pump: 
+
+![image](https://user-images.githubusercontent.com/88277263/127845571-f6084676-90b5-4295-898c-8861902feef3.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127845588-1367dd1b-f030-46a6-9662-19a5f89dc231.png)
+
+3 VCO:
+
+![image](https://user-images.githubusercontent.com/88277263/127845668-b5396b25-ded8-49a4-9e55-2e0d87ec26f3.png)
+
+A. 7 inverters are placed in layout to decrease the range of frequency.
+
+B. Large output inverter for driving strength of VCO (current).
+
+C. Additional inverter to provide full swing at the output.
+
+![image](https://user-images.githubusercontent.com/88277263/127845733-e6a9ebc0-6df9-4605-8ee5-dc8045afaf4c.png)
+
+4 FD: 
+
+![image](https://user-images.githubusercontent.com/88277263/127845761-027b5ce4-80f2-4665-901a-875c098604ef.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127845773-f01278c8-9ca9-4f48-9da1-d9fea32b9987.png)
+
+5 Mux:
+
+![image](https://user-images.githubusercontent.com/88277263/127845800-61633fcd-c07f-4383-a487-d9c83896b634.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127845814-309e130a-9ed2-436d-9556-0c27e473775c.png)
+
+cmd used:
+
+![image](https://user-images.githubusercontent.com/88277263/127845859-236f22f3-1a93-448a-948c-50e85f62794c.png)
+
+===============================================================================
+
 
 
 
