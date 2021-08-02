@@ -32,9 +32,7 @@ Day 2 – PLL Labs and post-layout simulations
 
 ===============================================================================
 
-Day 1 – PLL Theory and Lab setup
-1. Introduction to PLL
-Lec 1
+Day 1 – PLL Theory and Lab setup_1. Introduction to PLL_Lec 1
 
 1. PLL – to mimic multiple range of freq from reference clk wth no or negligible phase or freq noise.
 2. Clk gen :
@@ -49,6 +47,7 @@ Lec 1
 5. PLL output: fout = n fref and constant phase difference at output clk wrt ref clk.
                This is called as lock in phase and freq with reference.
 6. PLL Block Diagram
+
 ![image](https://user-images.githubusercontent.com/88277263/127831626-4271c1d4-bb57-4b36-b3ca-87a15135b784.png)
 
 ===============================================================================
