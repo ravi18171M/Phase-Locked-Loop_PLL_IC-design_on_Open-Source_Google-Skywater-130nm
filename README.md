@@ -37,11 +37,11 @@ Day 1 – PLL Theory and Lab setup_1. Introduction to PLL_Lec 1
 1. PLL – to mimic multiple range of freq from reference clk wth no or negligible phase or freq noise.
 2. Clk gen :
     VCO: 
-     1. Made by inverters,
-     2. Onchip oscillator,
-     3. Flexible freq generation but with impure spectral i.e wide freq spectrum.
+     Made by inverters,
+     Onchip oscillator,
+     Flexible freq generation but with impure spectral i.e wide freq spectrum.
     Quarzt Crystal: 
-     1. Pure Spectral i.e. single freq can be obtained but not flexible to generate range of freq.
+     Pure Spectral i.e. single freq can be obtained but not flexible to generate range of freq.
 3. Phase noise depicts untimely arrival of data.
 4. Function of PLL is to make pure spectral of VCO.
 5. PLL output: fout = n fref and constant phase difference at output clk wrt ref clk.
