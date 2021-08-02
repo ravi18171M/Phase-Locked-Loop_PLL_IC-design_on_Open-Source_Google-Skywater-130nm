@@ -535,6 +535,23 @@ Preparing means: adding io pads, peripherals, memory units, testing mech etc. al
 
 ===============================================================================
 
+Day2_11. Tapeout labs_lec 19
+
+1. leared about placement of our design in User Praject Area of Caravel available at efabless github repository.
+2. We will download user_analog_project_wrapper_emplty.gds.gz and extract it and later place our design in the empty layout space available with fixed pin provided.
+3. We are having separate pins for analog, digital, pwr supply, io pins etc.
+4. steps : 
+                                                    
+                                                    https://github.com/efabless
+                                                    caravel_user_project_analog
+                                                    caravel @ 13f2590
+                                                    gds
+                                                    user_analog_project_wrapper_empty.gds.gz
+                                                    download/copy code to work directory
+                                                    gzip -d user_project_wrapper_empty.gds.gz
+
+
+
 
 
 
