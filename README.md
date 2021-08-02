@@ -208,8 +208,13 @@ It is included in the work directory.
 5. user made lib = sky130.lib where model files are present eg sky130_fd_pr__pfet_01v8__tt.pm3.spice
 6 Designing:
 
+![image](https://user-images.githubusercontent.com/88277263/127839792-f94e53c7-0b7b-4883-8e09-dd48b3b15f0c.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127839824-c93407de-3a0c-46a3-8535-d6fe91ce3adb.png)
+![image](https://user-images.githubusercontent.com/88277263/127839951-cc79da31-c786-41d7-94b1-7eeee5d92cc8.png)
 
 
+===============================================================================
 
 
 
