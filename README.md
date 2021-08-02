@@ -172,6 +172,19 @@ Day1_6. Introduction to PDK, specifications and pre-layout circuits_Lec 6
 
 ===============================================================================
 
+Day1_7. Circuit design simulation tool - Ngspice Setup_Lec 7
+
+1. Need 4 files to simulate included in sky130.lib:
+
+                                            1. sky130_fd_pr__pfet_01v8__tt.pm3.spice
+                                            3. sky130_fd_pr__nfet_01v8__tt.pm3.spice
+                                            4. lod.spice
+                                            5. invariant.spice
+2. These files are in spice_lib folder from there path is to copied in sky130.lib.
+3. Reference: avsdpll_1v8 (path is in reference)
+4. pdk: google/skywater-pdk -> sky130_fd_pr
+
+===============================================================================
 
 
 
