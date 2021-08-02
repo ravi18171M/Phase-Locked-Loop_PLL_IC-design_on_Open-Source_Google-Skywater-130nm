@@ -2,8 +2,6 @@
 ![image](https://user-images.githubusercontent.com/88277263/127781279-485d7b13-fd40-4d03-9192-d7a31bf04769.png)
 31 July and 1 August 2021
 
-Add hyperlink
-
 ## Content :
 Day 1 – PLL Theory and Lab setup 
 1.	Introduction to PLL
