@@ -549,9 +549,29 @@ Day2_11. Tapeout labs_lec 19
                                                     5. user_analog_project_wrapper_empty.gds.gz
                                                     6. download copy code to work directory
                                                     7. gzip -d user_project_wrapper_empty.gds.gz
+                  
+![image](https://user-images.githubusercontent.com/88277263/127850288-1f943c93-1902-4e45-9700-2556e68713e0.png)
 
+![image](https://user-images.githubusercontent.com/88277263/127850303-c0886627-3348-4c05-a80a-d13102616c34.png)
 
+It is empty, we place our design inside it and connect pins to port available.
 
+io_analog[0] is in metal 3 layer, so need contact to connect with PLL pins .
+
+Our PLL has 5 pins en for CP&VCO, ref_clk, out_clk and vco_direct_inp. Except vco_direct_inp all are need io pins. VCCD, VSSD used for power supply.
+
+===============================================================================
+
+Commands used:
+
+                                                        nano <file.cir> 			        // to edit file
+                                                        ngspice < file.cir> 		        // to invoke ngspice
+                                                        git clone <path>  			        // to create copy of github repo
+                                                        magic –T < .tech file> <.mag file> 	// to invoke magic with given layout
+                                                        ls 					                // list of files present at that location
+                                                        clear 					            // clear screan
+                                                        exit  					            // exit from ngspice 
+                                                        touch <file name>  			        // to create file
 
 
 
