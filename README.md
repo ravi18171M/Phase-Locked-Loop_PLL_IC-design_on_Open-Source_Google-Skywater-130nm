@@ -7,7 +7,7 @@ Reference: https://github.com/lakshmi-sathi/avsdpll_1v8.git
 Add hyperlink
 
 Content :
-Day 1 – PLL Theory and Lab setup [1]
+Day 1 – PLL Theory and Lab setup 
 1.	Introduction to PLL
 2.	Introduction to Phase Frequency Detector
 3.	Introduction to Charge Pump
@@ -32,7 +32,7 @@ Day 2 – PLL Labs and post-layout simulations
 
 ===============================================================================
 
-Day 1 – PLL Theory and Lab setup_1. Introduction to PLL_Lec 1 [1]
+Day 1 – PLL Theory and Lab setup_1. Introduction to PLL_Lec 1 
 
 1. PLL – to mimic multiple range of freq from reference clk wth no or negligible phase or freq noise.
 2. Clk gen :
