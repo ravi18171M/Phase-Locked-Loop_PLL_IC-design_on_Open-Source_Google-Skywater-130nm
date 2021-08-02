@@ -122,6 +122,8 @@ Cload = C1/10
 
 Loop filter BW = 1/RC’ = fout/10     C’ = C1||Cload
 
+![eeeee](https://user-images.githubusercontent.com/88277263/127909899-69354356-67f5-4ee6-bc53-eaf98f0dd09a.jpg)
+
 ===============================================================================
 
 ## Day1_4. Introduction to VCO and Frequency Divider_Lec 4
