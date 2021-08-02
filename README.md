@@ -20,6 +20,8 @@
 [8.	Layout design tool - Magic Setup](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_8-layout-design-tool---magic-setup_lec-8)
 
 
+
+
 [Day 2 – PLL Labs and post-layout simulations](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day-2--pll-labs-and-post-layout-simulations_1-pll-components-circuit-design_lec-9)
 
 [1.	PLL components circuit design](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day-2--pll-labs-and-post-layout-simulations_1-pll-components-circuit-design_lec-9)
@@ -43,6 +45,8 @@
 [10. Tapeout theory](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_10-tapeout-theory_lec-18)
 
 [11. Tapeout labs](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_11-tapeout-labs_lec-19)
+
+
 
 
 [Reference](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#reference-)
