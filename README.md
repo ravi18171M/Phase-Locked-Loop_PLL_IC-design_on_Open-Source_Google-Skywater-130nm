@@ -429,6 +429,47 @@ Terms: ad = area of drain, pd = perimeter of drain. Need to make correct scale a
 
 ===============================================================================
 
+Day2_8. Post Layout simulations_Lec 16
+
+For post layout sim we create file which includes lib and extrc .spice content and required stimuli.
+
+1. PFD post layout sim
+
+![image](https://user-images.githubusercontent.com/88277263/127847225-1ba199b2-a47e-402d-a251-09eed20ff2c0.png)
+![image](https://user-images.githubusercontent.com/88277263/127847234-175385fd-84a8-4b6d-87fb-614f28933cf9.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127847245-699de60c-8776-4a29-bdff-e166b52a93d2.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127847264-d05b1c33-8d8e-4524-a940-502292388c5d.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127847281-1b62ace6-00fb-4da4-b79e-895a579297cb.png)
+
+2 Charge Pump post layout sim
+
+![image](https://user-images.githubusercontent.com/88277263/127847387-ae4550d7-d120-4ee5-825d-9e02de4d6819.png)
+![image](https://user-images.githubusercontent.com/88277263/127847402-2a3f12e5-a74e-4d4c-96fc-79ca3aebd951.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127847422-2b5b6b07-6b53-4a39-9f31-40c3a254291a.png)
+
+3 VCO post layout sim
+
+![image](https://user-images.githubusercontent.com/88277263/127847481-48afa7b1-54cc-4cef-854f-ba96749bfc94.png)
+![image](https://user-images.githubusercontent.com/88277263/127847492-ecd2fdea-dd51-44f7-94bb-a4e518168483.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127847539-47f69e9b-282c-47c7-9472-79d16b73be53.png)
+
+4 Freq Div post layout sim
+
+![image](https://user-images.githubusercontent.com/88277263/127847582-e1cd64a3-66e1-4609-9945-90f5e07b7830.png)
+![image](https://user-images.githubusercontent.com/88277263/127847599-4e9a3397-b529-49e7-9a43-8bda7d61e8d7.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127847617-33f1b7ef-0249-4488-b9bd-742d5b4d8931.png)
+
+===============================================================================
+
+
+
+
 
 
 
