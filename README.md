@@ -54,7 +54,7 @@ Day 1 – PLL Theory and Lab setup_1. Introduction to PLL_Lec 1
 
 Day1_2. Introduction to Phase Frequency Detector_Lec 2
 
-![image](https://user-images.githubusercontent.com/88277263/127833345-f248b5cb-20f8-4975-9b4c-2cbd894f5e39.png)
+![image](https://user-images.githubusercontent.com/88277263/127833964-94ccbc8f-4870-4da2-b536-9b728b23ed56.png)
 
 Problem: for leading and lagging of output clk we have same xor output, so it will difficult to decide to make output clk fast or slow.
 
