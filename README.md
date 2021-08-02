@@ -201,6 +201,9 @@ PLL Terms:
                                     50% Duty Cycle
   
  
+ 
+ ![zzzzzzzzzzz](https://user-images.githubusercontent.com/88277263/127910243-704e8d0f-78da-49af-90c0-655be507d989.jpg)
+
  4. Circuits:
  
  ![image](https://user-images.githubusercontent.com/88277263/127838308-cefa2a94-77e9-49fe-adc4-e7f7811acfd6.png)
