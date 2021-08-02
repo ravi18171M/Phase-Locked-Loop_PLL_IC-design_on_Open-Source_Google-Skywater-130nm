@@ -234,6 +234,8 @@ It’s a positive edge trigger
 
 
 
+
+
 2. Charge Pump:
 
 ![image](https://user-images.githubusercontent.com/88277263/127841845-b00e9200-7043-44b5-935e-072d5dd8e2df.png)
@@ -248,7 +250,8 @@ A. For both up = down = 0
 
 ![image](https://user-images.githubusercontent.com/88277263/127842028-3a646252-9d05-4271-90e1-d136ec613698.png)
 
-![image](https://user-images.githubusercontent.com/88277263/127842090-01add886-7eaf-4121-a832-5b414d2072eb.png)
+![image](https://user-images.githubusercontent.com/88277263/127842859-8fb69bb8-6ced-41e0-a37f-5af13c1809f5.png)
+
 
 
 
@@ -259,6 +262,10 @@ B. For pulse given at up signal
 ![image](https://user-images.githubusercontent.com/88277263/127842293-14fbf882-955c-493c-b2d2-c4ad111277b1.png)
 
 ![image](https://user-images.githubusercontent.com/88277263/127842319-880961a4-e203-4e01-8a6c-b387591607c4.png)
+
+
+
+
 
 
 
