@@ -93,6 +93,40 @@ Loop filter BW = 1/RC’ = fout/10     C’ = C1||Cload
 
 ===============================================================================
 
+Day1_4. Introduction to VCO and Frequency Divider_Lec 4
+
+1. VCO 
+
+1. Ring oscillator is onchip oscillator but with fix freq .
+
+![image](https://user-images.githubusercontent.com/88277263/127835455-c55caa90-0619-4744-8d20-51ff2b58815c.png)
+
+2. To make flexible freq in ring oscillator we will vary SUPPLY current as per need of the time to rise and fall of signal.
+
+![image](https://user-images.githubusercontent.com/88277263/127835525-40e8daf6-cee9-4748-b0fd-d11f588ce730.png)
+
+2 Freq Division:
+
+1. Toggle ff divide the input clk by 2 . 
+
+![image](https://user-images.githubusercontent.com/88277263/127835599-c69b54ba-f075-4ec2-a37b-3ae25b914963.png)
+
+2. For more Division need to cascade the Toggle FF as below:
+
+![image](https://user-images.githubusercontent.com/88277263/127835660-56e017ae-e514-4181-b22e-01dacef21c37.png)
+
+PLL Terms:
+1. Lock Range: After Lock is done , range of freq PLL can follow ref clk 
+2. Capture Range: From unlock condition to Lock condition range of freq PLL can lock.
+                  
+                  CR<LR
+                  Loop filter BW effects CR.
+3. Settling time: Time taken from unlock state to locked.
+                  
+                  Depends on charge pump time to reach it’s stable value.
+
+===============================================================================
+
 
 
 
