@@ -3,7 +3,7 @@
 31 July and 1 August 2021
 
 ## Content :
-[Day 1 – PLL Theory and Lab setup]() 
+[Day 1 – PLL Theory and Lab setup](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day-1--pll-theory-and-lab-setup_1-introduction-to-pll_lec-1) 
 1.	Introduction to PLL
 2.	Introduction to Phase Frequency Detector
 3.	Introduction to Charge Pump
