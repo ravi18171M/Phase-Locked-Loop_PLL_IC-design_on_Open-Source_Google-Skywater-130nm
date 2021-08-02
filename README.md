@@ -384,7 +384,50 @@ cmd used:
 
 ===============================================================================
 
+Day2_7. Parasitics extraction_Lec 15
 
+1. PFD parasitic extrc
+
+Open layout, after that select all using ‘i’ and then use following command.
+
+![image](https://user-images.githubusercontent.com/88277263/127846279-458fde92-6d2f-4d74-8ce3-c8673c9f13b9.png)
+
+Created PFD.spice, which has all parasitic C0 to C46 .
+
+![image](https://user-images.githubusercontent.com/88277263/127846317-ab55c481-6e62-4b7a-89c6-32d98d18e1bf.png)
+![image](https://user-images.githubusercontent.com/88277263/127846332-7799a3a8-5307-4412-b20d-8d9fccbac8ec.png)
+
+Terms: ad = area of drain, pd = perimeter of drain. Need to make correct scale at the top
+
+2. Charge pump extrc
+
+![image](https://user-images.githubusercontent.com/88277263/127846401-3687e925-f935-4e79-8352-252c11aaf478.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127846419-8257c221-a385-4a86-b2b4-23995d85b313.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127846452-8f37ea2f-040c-4304-9e63-8322d5ae4fb8.png)
+![image](https://user-images.githubusercontent.com/88277263/127846466-1bfeb200-4ba9-4de2-b25a-1860a0d65425.png)
+
+3. VCO parastitic extrc
+
+![image](https://user-images.githubusercontent.com/88277263/127846530-6621db4f-6822-4622-aca5-0099a403ad49.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127846549-6371eb63-2b1c-4ce2-aa79-029d970c4379.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127846567-012ba2b9-1306-4998-be45-c26aaafa3b1c.png)
+![image](https://user-images.githubusercontent.com/88277263/127846583-ad22d58b-7739-42bd-8f2e-986b378a22ac.png)
+
+4. Freq Div parasitic extrc
+
+![image](https://user-images.githubusercontent.com/88277263/127846655-e6cff06e-6ba4-4d9a-bdbd-b9ef87fd3122.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127846671-a993042c-1510-4e7b-b292-1ab101f47895.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127846680-f5bc7799-58bc-4a35-a396-d4eee6d71b6c.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127846692-9931c6b4-84da-445b-9a00-bde6fa397bb5.png)
+
+===============================================================================
 
 
 
