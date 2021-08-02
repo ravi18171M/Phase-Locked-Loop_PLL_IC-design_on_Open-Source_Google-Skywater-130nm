@@ -127,6 +127,21 @@ PLL Terms:
 
 ===============================================================================
 
+Day1_5. Tool setup and design flow_Lec 5
+
+1. ngspice = ckt simulator
+2. magic = layout design 
+3. sky130nm.tech technology file for magic 
+4. Flow: 
+            Ckt design
+            Prelayout sim
+            Layout
+            Parasitic extrc
+            Postlayout sim
+
+===============================================================================
+
+
 
 
 
