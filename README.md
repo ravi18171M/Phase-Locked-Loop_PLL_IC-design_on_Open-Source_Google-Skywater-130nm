@@ -326,6 +326,21 @@ Day2_4. Troubleshooting steps_Lec 12
 
 ===============================================================================
 
+Day2_5. Layout design_Lec 13
+
+1. Tech used : sky130A.tech
+
+2. Need to have n-well in which p diffusion is made to make pmos
+
+3. Check DRC
+
+4. Parasitic extrc are available on pins only.
+
+===============================================================================
+
+
+
+
 
 
 
