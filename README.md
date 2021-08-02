@@ -297,6 +297,23 @@ Extra inv at output for full swing
 
 ===============================================================================
 
+Day2_3. Steps to combine PLL sub-circuits and PLL full design simulation_Lec 11
+
+![image](https://user-images.githubusercontent.com/88277263/127843953-80128384-e53f-4464-b22e-8791807c8b5d.png)
+![image](https://user-images.githubusercontent.com/88277263/127843975-06a07c24-f286-4e8d-88ef-250f638a267e.png)
+![image](https://user-images.githubusercontent.com/88277263/127844000-5e3295e5-1877-4ef2-bf6c-2f8bd7c65af6.png)
+![image](https://user-images.githubusercontent.com/88277263/127844018-54fdbf2a-49eb-4ab7-a733-b36b5e0f93d2.png)
+![image](https://user-images.githubusercontent.com/88277263/127844038-ea27a447-60a8-425c-9619-bebae359a23c.png)
+![image](https://user-images.githubusercontent.com/88277263/127844060-745685bd-842d-4e87-9a86-808c617790c1.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127844114-48158aad-1b01-4570-90b9-7c12a32844af.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127844132-9cd7e07d-d104-4051-9e02-4ddc1533f6c3.png)
+
+
+
+
+
 
 
 
