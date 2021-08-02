@@ -542,13 +542,13 @@ Day2_11. Tapeout labs_lec 19
 3. We are having separate pins for analog, digital, pwr supply, io pins etc.
 4. steps : 
                                                     
-                                                    https://github.com/efabless
-                                                    caravel_user_project_analog
-                                                    caravel @ 13f2590
-                                                    gds
-                                                    user_analog_project_wrapper_empty.gds.gz
-                                                    download/copy code to work directory
-                                                    gzip -d user_project_wrapper_empty.gds.gz
+                                                    1. https://github.com/efabless
+                                                    2. caravel_user_project_analog
+                                                    3. caravel @ 13f2590
+                                                    4. gds
+                                                    5. user_analog_project_wrapper_empty.gds.gz
+                                                    6. download copy code to work directory
+                                                    7. gzip -d user_project_wrapper_empty.gds.gz
 
 
 
