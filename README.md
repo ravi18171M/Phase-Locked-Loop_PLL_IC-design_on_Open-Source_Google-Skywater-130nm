@@ -145,6 +145,7 @@ Day1_6. Introduction to PDK, specifications and pre-layout circuits_Lec 6
 
 1. Open Source Google-Skywater 130nm
 2. available pdk are:
+                                    
                                     io = input output
                                     pr = primitive (spice)   we use this type  
                                     sc = standard cell
@@ -153,6 +154,7 @@ Day1_6. Introduction to PDK, specifications and pre-layout circuits_Lec 6
                                     lp = low power
                                     hdll = high density low leakage
 3 specs:
+                                    
                                     TT corner
                                     1.8V VDD
                                     Room temp 27C
