@@ -52,6 +52,30 @@ Day 1 – PLL Theory and Lab setup_1. Introduction to PLL_Lec 1
 
 ===============================================================================
 
+Day1_2. Introduction to Phase Frequency Detector_Lec 2
+
+![image](https://user-images.githubusercontent.com/88277263/127833345-f248b5cb-20f8-4975-9b4c-2cbd894f5e39.png)
+
+Problem: for leading and lagging of output clk we have same xor output, so it will difficult to decide to make output clk fast or slow.
+
+![image](https://user-images.githubusercontent.com/88277263/127833401-e98daf4e-f50f-42d6-b5d7-875a2a5e6c15.png)
+
+Width of up or down signal helps in deciding of how much to make lead or lag in output clk wrt ref clk.
+
+![image](https://user-images.githubusercontent.com/88277263/127833485-875adfd6-412e-4897-b4f1-93ec361b21ad.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127833527-9dd807c8-e746-4b31-a0b1-6b9b079a7460.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127833558-c7942911-e5df-47a9-b524-f5d09292ae61.png)
+
+Problem: 
+Dead zone : lowest phase difference or freq that PFD can detect, below which up and down signal are short and thin that is not suitable for Charge pump working, hence In this region PFD is not able to work. ( simulation performed with 1ns and 0.25ns of phase difference later in this workshop) 
+This leads to phase noise in system.
+
+===============================================================================
+
+
+
 
 
 
