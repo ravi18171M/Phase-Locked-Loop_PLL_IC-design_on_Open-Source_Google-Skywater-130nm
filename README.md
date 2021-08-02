@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/88277263/127781279-485d7b13-fd40-4d03-9192-d7a31bf04769.png)
 31 July and 1 August 2021
 
-Reference: https://github.com/lakshmi-sathi/avsdpll_1v8.git
+Reference & credit: https://github.com/lakshmi-sathi/avsdpll_1v8.git
 
 Add hyperlink
 
@@ -231,6 +231,44 @@ Day2_2. PLL components circuit simulations_Lec 10
 It’s a positive edge trigger
 
 ![image](https://user-images.githubusercontent.com/88277263/127840782-b1b89d68-f241-4fc7-847c-06731d0f3fc8.png)
+
+
+
+2. Charge Pump:
+
+![image](https://user-images.githubusercontent.com/88277263/127841845-b00e9200-7043-44b5-935e-072d5dd8e2df.png)
+
+To avoid leakage that vary the vctrl for vco , extra stage at up and down.
+
+
+
+A. For both up = down = 0
+
+![image](https://user-images.githubusercontent.com/88277263/127841989-153d1f24-09e0-415d-bbdb-f9b8fd8dd4ea.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127842028-3a646252-9d05-4271-90e1-d136ec613698.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127842090-01add886-7eaf-4121-a832-5b414d2072eb.png)
+
+
+
+B. For pulse given at up signal 
+
+![image](https://user-images.githubusercontent.com/88277263/127842266-51316d49-230e-4444-b92d-a758eac09b1c.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127842293-14fbf882-955c-493c-b2d2-c4ad111277b1.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127842319-880961a4-e203-4e01-8a6c-b387591607c4.png)
+
+
+
+
+
+3. VCO: 
+
+
+
+
 
 
 
