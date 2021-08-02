@@ -310,6 +310,21 @@ Day2_3. Steps to combine PLL sub-circuits and PLL full design simulation_Lec 11
 
 ![image](https://user-images.githubusercontent.com/88277263/127844132-9cd7e07d-d104-4051-9e02-4ddc1533f6c3.png)
 
+===============================================================================
+
+Day2_4. Troubleshooting steps_Lec 12
+
+1. if waveform is 1 or 0 constant we need to check connectivity, naming , parameters etc
+
+2. If output is not multipier of input we need to verify freq range of VCO for our case it is 40- 100 Mhz.
+
+3. there is limitation of PFD wrt phase difference is can detect hence there will be some phase difference remains even after locking . phase noise is measure of phase difference.
+
+4. charge pump tcharge and tdischarge optimized.
+
+5. loop filter sizing.
+
+===============================================================================
 
 
 
