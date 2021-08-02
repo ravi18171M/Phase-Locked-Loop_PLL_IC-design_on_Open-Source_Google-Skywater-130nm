@@ -153,7 +153,7 @@ Day1_6. Introduction to PDK, specifications and pre-layout circuits_Lec 6
                                     hs = high speed
                                     lp = low power
                                     hdll = high density low leakage
-    3 specs:
+  3 specs:
                                     
                                     TT corner
                                     1.8V VDD
@@ -163,7 +163,7 @@ Day1_6. Introduction to PDK, specifications and pre-layout circuits_Lec 6
                                     8x Multipier
                                     Jitter RMS (RMS of variation in period or phase noise) < 20ns  (nearly 10ns)
                                     50% Duty Cycle
-    4. Circuits:
+  4. Circuits:
 
 
 
