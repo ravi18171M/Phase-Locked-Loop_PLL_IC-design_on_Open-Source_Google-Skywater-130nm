@@ -574,16 +574,31 @@ Commands used:
                                       touch <file name>  			        // to create file
 
 
+===============================================================================
 
+Work Directory:
 
+![image](https://user-images.githubusercontent.com/88277263/127850855-d1fdd1d5-efbb-412d-9e3c-219079e9280e.png)
 
+===============================================================================
 
+Reference :  https://github.com/lakshmi-sathi/avsdpll_1v8.git
 
+===============================================================================
+            
+Acknowledgements:
 
+1. Thank you!! Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalghosh@gmail.com for providing this Workshop.
 
+2. Thank you!! Lakshmi S, MS ECE - lakshmi.sathi96@gmail.com for helping and providing resources during the Workshop.
 
+===============================================================================
 
+Thank you !!
+Ravi Kumar Gupta 
+gravikumargupta@gmail.com
 
+===============================================================================
 
 
 
