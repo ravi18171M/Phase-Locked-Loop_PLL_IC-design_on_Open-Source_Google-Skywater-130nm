@@ -564,14 +564,14 @@ Our PLL has 5 pins en for CP&VCO, ref_clk, out_clk and vco_direct_inp. Except vc
 
 Commands used:
 
-                                                        nano <file.cir> 			        // to edit file
-                                                        ngspice < file.cir> 		        // to invoke ngspice
-                                                        git clone <path>  			        // to create copy of github repo
-                                                        magic –T < .tech file> <.mag file> 	// to invoke magic with given layout
-                                                        ls 					                // list of files present at that location
-                                                        clear 					            // clear screan
-                                                        exit  					            // exit from ngspice 
-                                                        touch <file name>  			        // to create file
+                                      nano <file.cir> 			             // to edit file
+                                      ngspice < file.cir> 		            // to invoke ngspice
+                                      git clone <path>  			        // to create copy of github repo
+                                      magic –T < .tech file> <.mag file> 	// to invoke magic with given layout
+                                      ls 					                // list of files present at that location
+                                      clear 					            // clear screan
+                                      exit  					            // exit from ngspice 
+                                      touch <file name>  			        // to create file
 
 
 
