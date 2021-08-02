@@ -114,6 +114,8 @@ If up avg time is larger then cap will be charging and vicevera.
 
 ![image](https://user-images.githubusercontent.com/88277263/127834655-fe38d48d-1029-4f8e-96e6-efeb56c9e688.png)
 
+![zzzzzzz](https://user-images.githubusercontent.com/88277263/127910042-7afa8b9c-ed46-4f0d-aef6-ec2939578955.jpg)
+
 4. Loop filter:
 
 ![image](https://user-images.githubusercontent.com/88277263/127834767-b0bff1db-277c-40e2-8580-151fdd526ef6.png)
