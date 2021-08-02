@@ -16,7 +16,9 @@
 [5.	Tool setup and design flow](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_5-tool-setup-and-design-flow_lec-5)
 
 [6.	Introduction to PDK, specifications and pre-layout circuits](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_6-introduction-to-pdk-specifications-and-pre-layout-circuits_lec-6)
+
 [7.	Circuit design simulation tool - Ngspice Setup](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_7-circuit-design-simulation-tool---ngspice-setup_lec-7)
+
 [8.	Layout design tool - Magic Setup](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_8-layout-design-tool---magic-setup_lec-8)
 
 
