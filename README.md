@@ -523,6 +523,17 @@ Simulating Post layout PLL
 
 ===============================================================================
 
+Day2_10. Tapeout theory_Lec 18
+
+1. Tapeout is sending design to fab , after preparing it.
+
+Preparing means: adding io pads, peripherals, memory units, testing mech etc. along with main IP.
+
+2. For complete functioning of IP we need SOC which is provided by efabless named as caravel. It has user project area where we add our IP to make it working. We don’t need to care about things except the pins.
+
+![image](https://user-images.githubusercontent.com/88277263/127849605-31763160-8b80-4228-b15a-7a558bf836b2.png)
+
+===============================================================================
 
 
 
