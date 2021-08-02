@@ -4,31 +4,52 @@
 
 ## Content :
 [Day 1 – PLL Theory and Lab setup](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day-1--pll-theory-and-lab-setup_1-introduction-to-pll_lec-1) 
+
 [1.	Introduction to PLL](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day-1--pll-theory-and-lab-setup_1-introduction-to-pll_lec-1)
+
 [2.	Introduction to Phase Frequency Detector](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_2-introduction-to-phase-frequency-detector_lec-2)
+
 [3.	Introduction to Charge Pump](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_3-introduction-to-charge-pump_lec-3)
+
 [4.	Introduction to VCO and Frequency Divider](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_4-introduction-to-vco-and-frequency-divider_lec-4)
+
 [5.	Tool setup and design flow](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_5-tool-setup-and-design-flow_lec-5)
+
 [6.	Introduction to PDK, specifications and pre-layout circuits](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_6-introduction-to-pdk-specifications-and-pre-layout-circuits_lec-6)
 [7.	Circuit design simulation tool - Ngspice Setup](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_7-circuit-design-simulation-tool---ngspice-setup_lec-7)
 [8.	Layout design tool - Magic Setup](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_8-layout-design-tool---magic-setup_lec-8)
 
+
 [Day 2 – PLL Labs and post-layout simulations](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day-2--pll-labs-and-post-layout-simulations_1-pll-components-circuit-design_lec-9)
+
 [1.	PLL components circuit design](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day-2--pll-labs-and-post-layout-simulations_1-pll-components-circuit-design_lec-9)
+
 [2.	PLL components circuit simulations](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_2-pll-components-circuit-simulations_lec-10)
+
 [3.	Steps to combine PLL sub-circuits and PLL full design simulation](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_3-steps-to-combine-pll-sub-circuits-and-pll-full-design-simulation_lec-11)
+
 [4.	Troubleshooting steps](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_4-troubleshooting-steps_lec-12)
+
 [5.	Layout design](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_5-layout-design_lec-13)
+
 [6.	Layout Walkthrough](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_6-layout-walkthrough_lec-14)
+
 [7.	Parasitics extraction](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_7-parasitics-extraction_lec-15)
+
 [8.	Post Layout simulations](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_8-post-layout-simulations_lec-16)
+
 [9.	Steps to combine layouts](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_9-steps-to-combine-layouts_lec--17)
+
 [10. Tapeout theory](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_10-tapeout-theory_lec-18)
+
 [11. Tapeout labs](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day2_11-tapeout-labs_lec-19)
+
 
 [Reference](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#reference-)
 
+
 [Commands used](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#commands-used)
+
 
 
 
