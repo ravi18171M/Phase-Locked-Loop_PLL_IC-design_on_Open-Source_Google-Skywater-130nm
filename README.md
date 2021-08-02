@@ -259,8 +259,6 @@ B. For pulse given at up signal
 
 ![image](https://user-images.githubusercontent.com/88277263/127842266-51316d49-230e-4444-b92d-a758eac09b1c.png)
 
-![image](https://user-images.githubusercontent.com/88277263/127842293-14fbf882-955c-493c-b2d2-c4ad111277b1.png)
-
 ![image](https://user-images.githubusercontent.com/88277263/127842319-880961a4-e203-4e01-8a6c-b387591607c4.png)
 
 
@@ -272,6 +270,18 @@ B. For pulse given at up signal
 
 
 3. VCO: 
+
+![image](https://user-images.githubusercontent.com/88277263/127843132-8f3a2637-ee9d-4539-9103-7382e24e247c.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127843158-d6f728c8-4445-4e1d-a45a-ecb494d63750.png)
+
+Extra inv at output for full swing 
+
+![image](https://user-images.githubusercontent.com/88277263/127843189-59b06579-5739-4f42-a109-4a42e9041de6.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127843213-ee41a42c-bbed-4b07-ae34-7e81d21768e1.png)
+
+
 
 
 
