@@ -5,7 +5,7 @@
 ## Content :
 [Day 1 – PLL Theory and Lab setup](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day-1--pll-theory-and-lab-setup_1-introduction-to-pll_lec-1) 
 
-[1.	Introduction to PLL](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day-1--pll-theory-and-lab-setup_1-introduction-to-pll_lec-1)
+-[1.	Introduction to PLL](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day-1--pll-theory-and-lab-setup_1-introduction-to-pll_lec-1)
 
 [2.	Introduction to Phase Frequency Detector](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day1_2-introduction-to-phase-frequency-detector_lec-2)
 
