@@ -467,6 +467,25 @@ For post layout sim we create file which includes lib and extrc .spice content a
 
 ===============================================================================
 
+Day2_9. Steps to combine layouts_Lec – 17
+
+1. To open magic:
+
+magic –T  sky130A.tech
+
+cell -> place instance 
+                                                        
+                                                        I = to select layout
+                                                        X = to open layout
+                                                        m = to move
+                                                        space = for wire 
+                                                        rt clk = to cancel wire select
+                                                        three time space = to get in normal from wire mode 
+2. MUX is used to control input of VCO via Charge pump or External control.
+3. No loop filter is used in PLL we have used.
+4. file -> write GDS     for converting layout to GDS format for FAB.
+
+
 
 
 
