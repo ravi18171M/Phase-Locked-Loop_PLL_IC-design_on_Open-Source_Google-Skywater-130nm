@@ -141,6 +141,27 @@ Day1_5. Tool setup and design flow_Lec 5
 
 ===============================================================================
 
+Day1_6. Introduction to PDK, specifications and pre-layout circuits_Lec 6
+
+1. Open Source Google-Skywater 130nm
+2. available pdk are:
+                                    io = input output
+                                    pr = primitive (spice)   we use this type  
+                                    sc = standard cell
+                                    hd = high density
+                                    hs = high speed
+                                    lp = low power
+                                    hdll = high density low leakage
+3 specs:
+                                    TT corner
+                                    1.8V VDD
+                                    Room temp 27C
+                                    VCO (VCO use all PLL with external control) and PLL mode
+                                    Input freq 5MHz to 12.5MHz
+                                    8x Multipier
+                                    Jitter RMS (RMS of variation in period or phase noise) < 20ns  (nearly 10ns)
+                                    50% Duty Cycle
+3. Circuits:
 
 
 
