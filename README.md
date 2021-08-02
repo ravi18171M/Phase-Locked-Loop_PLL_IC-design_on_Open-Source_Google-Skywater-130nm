@@ -485,10 +485,43 @@ cell -> place instance
 3. No loop filter is used in PLL we have used.
 4. file -> write GDS     for converting layout to GDS format for FAB.
 
+Extraction of PLL Layout:
 
+![image](https://user-images.githubusercontent.com/88277263/127848691-f63f2101-7498-4d05-b071-d64df060af34.png)
 
+![image](https://user-images.githubusercontent.com/88277263/127848719-3487db46-2412-4c61-bbaf-1b802b072200.png)
 
+![image](https://user-images.githubusercontent.com/88277263/127848739-1609fa3a-7666-4518-925a-c3f17be34775.png)
 
+Extracted PLL spice: 
+
+![image](https://user-images.githubusercontent.com/88277263/127848813-9f492379-c87e-4b57-8359-1210e422f4ec.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127848835-ee403d07-c547-4b3f-8393-6107dcfd34cb.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127848857-0f75a56b-945e-4fc6-b3fb-2bafc6fe631f.png)
+
+Making .cir for post layout sim:
+
+![image](https://user-images.githubusercontent.com/88277263/127848951-1d42bda6-56db-4300-984a-91d4dd2ec4d6.png)
+![image](https://user-images.githubusercontent.com/88277263/127848967-7d7d04bc-0666-4552-aec6-d04a90d1f117.png)
+![image](https://user-images.githubusercontent.com/88277263/127848975-b3a8db07-883e-479c-b4bd-384b4c47f382.png)
+![image](https://user-images.githubusercontent.com/88277263/127848992-52fcfe83-7421-42e9-aac2-2eaa8c15324b.png)
+![image](https://user-images.githubusercontent.com/88277263/127849013-14b5dd08-3a38-46c9-82d2-6dc742aa9b18.png)
+
+Simulating Post layout PLL 
+
+![image](https://user-images.githubusercontent.com/88277263/127849094-b5c44a7b-c3c0-4c13-bfc5-949acd19e9d4.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127849114-6c8691ad-68cd-471f-a729-bc3cf4bdabb9.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127849159-acef71f0-eebc-4fea-807f-41ae91e629ea.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127849181-75eaa3eb-c58e-41ea-a9e5-15925ad4f50d.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127849194-474990cb-3d39-49cb-a1d7-173dd06239a0.png)
+
+===============================================================================
 
 
 
