@@ -194,6 +194,20 @@ It is included in the work directory.
 
 ===============================================================================
 
+ Day 2 – PLL Labs and post-layout simulations_1. PLL components circuit design_Lec 9
+ 
+1. Invoke ngspice where .cir is present.
+2. limits:
+                
+                node = 130nm but limit is 150nm
+                Nmos Wmin = 360nm
+                Pmos Wmin = 420nm
+
+3. .cir is circuit file
+4. 1st line is comment , .ic for initial condition, .include to include file 
+5. user made lib = sky130.lib where model files are present eg sky130_fd_pr__pfet_01v8__tt.pm3.spice
+6 Designing:
+
 
 
 
