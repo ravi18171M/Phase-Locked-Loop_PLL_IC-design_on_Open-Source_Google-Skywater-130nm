@@ -216,6 +216,25 @@ It is included in the work directory.
 
 ===============================================================================
 
+Day2_2. PLL components circuit simulations_Lec 10
+
+1. PFD:
+
+![image](https://user-images.githubusercontent.com/88277263/127840613-4b0746ee-8654-4fff-af1f-19564542cd31.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127840661-e2c55e17-eb74-4d2d-adb0-da3a81c66167.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127840688-03fc16ae-6715-46a9-bc59-a237bc429d5a.png)
+
+![image](https://user-images.githubusercontent.com/88277263/127840726-f494da37-b1b4-45b1-aa61-2054f50b66e3.png)
+
+It’s a positive edge trigger
+
+![image](https://user-images.githubusercontent.com/88277263/127840782-b1b89d68-f241-4fc7-847c-06731d0f3fc8.png)
+
+
+
+
 
 
 
