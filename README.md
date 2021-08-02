@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/88277263/127781279-485d7b13-fd40-4d03-9192-d7a31bf04769.png)
 31 July and 1 August 2021
 
-This Report is submitted by me (Ravi Kumar Gupta) to VSD-IAT as a part of Workshop. 
+This Report is submitted by Ravi Kumar Gupta to VSD-IAT as a part of Workshop. 
 
 ## Content :
 [Day 1 – PLL Theory and Lab setup](https://github.com/ravi18171M/Phase-Locked-Loop_PLL_IC-design_on_Open-Source_Google-Skywater-130nm/blob/main/README.md#day-1--pll-theory-and-lab-setup_1-introduction-to-pll_lec-1) 
