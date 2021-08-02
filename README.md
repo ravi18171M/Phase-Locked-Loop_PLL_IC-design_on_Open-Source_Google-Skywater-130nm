@@ -189,6 +189,7 @@ Day1_7. Circuit design simulation tool - Ngspice Setup_Lec 7
 Day1_8. Layout design tool - Magic Setup_Lec 8
 
 Tech used: sky130A.tech 
+
 It is included in the work directory.
 
 ===============================================================================
