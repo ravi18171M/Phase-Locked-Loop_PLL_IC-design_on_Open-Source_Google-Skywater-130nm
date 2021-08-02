@@ -28,6 +28,12 @@ Day 2 – PLL Labs and post-layout simulations
 10.	Tapeout theory
 11.	Tapeout labs
 
+Reference
+
+Commands used
+
+
+
 ===============================================================================
 
 ## Day 1 – PLL Theory and Lab setup_1. Introduction to PLL_Lec 1 
@@ -50,7 +56,7 @@ Day 2 – PLL Labs and post-layout simulations
 
 ===============================================================================
 
-Day1_2. Introduction to Phase Frequency Detector_Lec 2
+## Day1_2. Introduction to Phase Frequency Detector_Lec 2
 
 ![image](https://user-images.githubusercontent.com/88277263/127833964-94ccbc8f-4870-4da2-b536-9b728b23ed56.png)
 
@@ -72,7 +78,7 @@ This leads to phase noise in system.
 
 ===============================================================================
 
-Day1_3. Introduction to Charge Pump_Lec 3
+## Day1_3. Introduction to Charge Pump_Lec 3
 
 1. Convert digital signal (measure of phase difference at input of PFD) to Analog signal (to control VCO freq).
 2. We use current steering circuit i.e. depending upon input state current will be given or drown from output cap.
@@ -91,7 +97,7 @@ Loop filter BW = 1/RC’ = fout/10     C’ = C1||Cload
 
 ===============================================================================
 
-Day1_4. Introduction to VCO and Frequency Divider_Lec 4
+## Day1_4. Introduction to VCO and Frequency Divider_Lec 4
 
 1. VCO 
 
@@ -125,7 +131,7 @@ PLL Terms:
 
 ===============================================================================
 
-Day1_5. Tool setup and design flow_Lec 5
+## Day1_5. Tool setup and design flow_Lec 5
 
 1. ngspice = ckt simulator
 2. magic = layout design 
@@ -139,7 +145,7 @@ Day1_5. Tool setup and design flow_Lec 5
 
 ===============================================================================
 
-Day1_6. Introduction to PDK, specifications and pre-layout circuits_Lec 6
+## Day1_6. Introduction to PDK, specifications and pre-layout circuits_Lec 6
 
 1. Open Source Google-Skywater 130nm
 2. available pdk are:
@@ -170,7 +176,7 @@ Day1_6. Introduction to PDK, specifications and pre-layout circuits_Lec 6
 
 ===============================================================================
 
-Day1_7. Circuit design simulation tool - Ngspice Setup_Lec 7
+## Day1_7. Circuit design simulation tool - Ngspice Setup_Lec 7
 
 1. Need 4 files to simulate included in sky130.lib:
 
@@ -184,7 +190,7 @@ Day1_7. Circuit design simulation tool - Ngspice Setup_Lec 7
 
 ===============================================================================
 
-Day1_8. Layout design tool - Magic Setup_Lec 8
+## Day1_8. Layout design tool - Magic Setup_Lec 8
 
 Tech used: sky130A.tech 
 
@@ -192,7 +198,7 @@ It is included in the work directory.
 
 ===============================================================================
 
- Day 2 – PLL Labs and post-layout simulations_1. PLL components circuit design_Lec 9
+## Day 2 – PLL Labs and post-layout simulations_1. PLL components circuit design_Lec 9
  
 1. Invoke ngspice where .cir is present.
 2. limits:
@@ -214,7 +220,7 @@ It is included in the work directory.
 
 ===============================================================================
 
-Day2_2. PLL components circuit simulations_Lec 10
+## Day2_2. PLL components circuit simulations_Lec 10
 
 1. PFD:
 
@@ -295,7 +301,7 @@ Extra inv at output for full swing
 
 ===============================================================================
 
-Day2_3. Steps to combine PLL sub-circuits and PLL full design simulation_Lec 11
+## Day2_3. Steps to combine PLL sub-circuits and PLL full design simulation_Lec 11
 
 ![image](https://user-images.githubusercontent.com/88277263/127843953-80128384-e53f-4464-b22e-8791807c8b5d.png)
 ![image](https://user-images.githubusercontent.com/88277263/127843975-06a07c24-f286-4e8d-88ef-250f638a267e.png)
@@ -310,7 +316,7 @@ Day2_3. Steps to combine PLL sub-circuits and PLL full design simulation_Lec 11
 
 ===============================================================================
 
-Day2_4. Troubleshooting steps_Lec 12
+## Day2_4. Troubleshooting steps_Lec 12
 
 1. if waveform is 1 or 0 constant we need to check connectivity, naming , parameters etc
 
@@ -324,7 +330,7 @@ Day2_4. Troubleshooting steps_Lec 12
 
 ===============================================================================
 
-Day2_5. Layout design_Lec 13
+## Day2_5. Layout design_Lec 13
 
 1. Tech used : sky130A.tech
 
@@ -336,7 +342,7 @@ Day2_5. Layout design_Lec 13
 
 ===============================================================================
 
-Day2_6. Layout Walkthrough_Lec 14
+## Day2_6. Layout Walkthrough_Lec 14
 
 1. PFD: 
 
@@ -382,7 +388,7 @@ cmd used:
 
 ===============================================================================
 
-Day2_7. Parasitics extraction_Lec 15
+## Day2_7. Parasitics extraction_Lec 15
 
 1. PFD parasitic extrc
 
@@ -427,7 +433,7 @@ Terms: ad = area of drain, pd = perimeter of drain. Need to make correct scale a
 
 ===============================================================================
 
-Day2_8. Post Layout simulations_Lec 16
+## Day2_8. Post Layout simulations_Lec 16
 
 For post layout sim we create file which includes lib and extrc .spice content and required stimuli.
 
@@ -465,7 +471,7 @@ For post layout sim we create file which includes lib and extrc .spice content a
 
 ===============================================================================
 
-Day2_9. Steps to combine layouts_Lec – 17
+## Day2_9. Steps to combine layouts_Lec – 17
 
 1. To open magic:
 
@@ -521,7 +527,7 @@ Simulating Post layout PLL
 
 ===============================================================================
 
-Day2_10. Tapeout theory_Lec 18
+## Day2_10. Tapeout theory_Lec 18
 
 1. Tapeout is sending design to fab , after preparing it.
 
@@ -533,7 +539,7 @@ Preparing means: adding io pads, peripherals, memory units, testing mech etc. al
 
 ===============================================================================
 
-Day2_11. Tapeout labs_lec 19
+## Day2_11. Tapeout labs_lec 19
 
 1. leared about placement of our design in User Praject Area of Caravel available at efabless github repository.
 2. We will download user_analog_project_wrapper_emplty.gds.gz and extract it and later place our design in the empty layout space available with fixed pin provided.
@@ -560,7 +566,7 @@ Our PLL has 5 pins en for CP&VCO, ref_clk, out_clk and vco_direct_inp. Except vc
 
 ===============================================================================
 
-Commands used:
+## Commands used:
 
                                       nano <file.cir> 			             // to edit file
                                       ngspice < file.cir> 		            // to invoke ngspice
@@ -574,17 +580,17 @@ Commands used:
 
 ===============================================================================
 
-Work Directory:
+## Work Directory:
 
 ![image](https://user-images.githubusercontent.com/88277263/127850855-d1fdd1d5-efbb-412d-9e3c-219079e9280e.png)
 
 ===============================================================================
 
-Reference :  https://github.com/lakshmi-sathi/avsdpll_1v8.git
+## Reference :  https://github.com/lakshmi-sathi/avsdpll_1v8.git
 
 ===============================================================================
             
-Acknowledgements:
+## Acknowledgements:
 
 1. Thank you!! Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalghosh@gmail.com for providing this Workshop.
 
