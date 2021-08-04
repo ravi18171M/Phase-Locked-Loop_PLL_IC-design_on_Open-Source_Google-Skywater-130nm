@@ -622,7 +622,7 @@ Our PLL has 5 pins en for CP&VCO, ref_clk, out_clk and vco_direct_inp. Except vc
 
 ## Reference :  
 
-https://github.com/lakshmi-sathi/avsdpll_1v8.git
+Lakshmi S., 8x PLL Clock Multiplier IP https://github.com/lakshmi-sathi/avsdpll_1v8.git
 
 ===============================================================================
             
